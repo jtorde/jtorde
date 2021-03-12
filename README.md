@@ -1,6 +1,6 @@
 ### [http://www.mit.edu/~jtorde/](http://www.mit.edu/~jtorde/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/jtorde/faster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mit-acl&repo=faster&show_owner=true)](https://github.com/jtorde/faster)
 
 
 <!--
