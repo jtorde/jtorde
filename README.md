@@ -1,5 +1,8 @@
 ### [http://www.mit.edu/~jtorde/](http://www.mit.edu/~jtorde/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/jtorde/faster)
+
+
 <!--
 **jtorde/jtorde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
