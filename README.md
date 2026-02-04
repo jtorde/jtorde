@@ -1,1 +1,1 @@
-### [https://robotics-trail.github.io](https://robotics-trail.github.io)
+### Lab Website: [https://robotics-trail.github.io](https://robotics-trail.github.io)
